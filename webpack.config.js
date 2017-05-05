@@ -8,6 +8,7 @@ module.exports = {
             __DEV__: PROD ? false : true
         })
     ],
+    lafsdffsfs
     entry: {
         'echarts': __dirname + '/index.js',
         'echarts.simple': __dirname + '/index.simple.js',
